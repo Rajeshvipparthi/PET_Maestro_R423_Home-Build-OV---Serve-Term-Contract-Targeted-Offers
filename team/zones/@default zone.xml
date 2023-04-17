@@ -1,0 +1,32 @@
+<zone dnsOverrideEnabled="false" proxyType="COMMON"
+    proxyTypeLg="NO_PROXY" uid="Default zone">
+    <embedded-action>1deb7d25-29f0-435d-8f72-50e4efb383c6</embedded-action>
+    <embedded-action>4ca4a877-a2cd-4319-8a3d-068f448ca729</embedded-action>
+    <embedded-action>764431f4-4774-4994-9894-c2a4df28e66f</embedded-action>
+    <embedded-action>af2db84e-bb34-48b1-a490-804c04de4deb</embedded-action>
+    <embedded-action>56dcd915-d08a-49f8-9adc-fb22c7423cb4</embedded-action>
+    <embedded-action>6ac2b985-38fd-4087-b038-210a9ebaa3cc</embedded-action>
+    <embedded-action>623802cd-5d68-4b15-8c0b-3ef79bd1b24c</embedded-action>
+    <embedded-action>14434dda-c455-4f7c-8c6c-b085d1b93528</embedded-action>
+    <embedded-action>83edc3d4-a0de-41ff-a4d6-5084c3d14b95</embedded-action>
+    <embedded-action>f479d94f-ee6c-43f5-9a11-869d90d06840</embedded-action>
+    <embedded-action>65424ae2-81b6-49bb-b97a-49f8ec471fc5</embedded-action>
+    <embedded-action>bfd9f7d0-48e9-4cac-a157-2745dfde438c</embedded-action>
+    <embedded-action>0c383d53-7b06-4322-8448-f29fae0bf9e7</embedded-action>
+    <embedded-action>dcdce48c-30c2-4711-ac1e-9b929fe84cbb</embedded-action>
+    <embedded-action>78e0225a-a093-4dd3-9a1f-e4a3b4035e76</embedded-action>
+    <embedded-action>70876431-1e5d-4b17-85e0-92b4dbcec462</embedded-action>
+    <embedded-action>13df40aa-02dd-43db-80a0-ed104e95d4aa</embedded-action>
+    <embedded-action>6a5ef093-287d-462f-a946-686127e18fb8</embedded-action>
+    <embedded-action>1b9f0295-f2b5-4424-a237-aba9d22a8b5e</embedded-action>
+    <embedded-action>8b307976-1bf7-48e9-a48f-c8b0cf745cff</embedded-action>
+    <embedded-action>b508bf29-1212-4584-a940-7a065c8e6a1b</embedded-action>
+    <embedded-action>22310be7-01c6-4d0d-b269-de7389cc1022</embedded-action>
+    <embedded-action>ffa305bc-5ebd-4c36-be69-b4ecf86f4c46</embedded-action>
+    <embedded-action>4b9ff412-edd1-4dca-8d42-4df67aac7d32</embedded-action>
+    <embedded-action>a92df689-3932-44f4-b522-817f876aa0d8</embedded-action>
+    <embedded-action>d79a36df-80de-46b8-9027-8879ec4e2e9c</embedded-action>
+    <embedded-action>14184895-f14a-49bc-a9fb-6baa683241a1</embedded-action>
+    <embedded-action>77302c13-6d22-48b7-ac2d-77c88699e766</embedded-action>
+    <embedded-action>9fdf501a-3b96-496b-adbc-526bcf5ed0e9</embedded-action>
+</zone>

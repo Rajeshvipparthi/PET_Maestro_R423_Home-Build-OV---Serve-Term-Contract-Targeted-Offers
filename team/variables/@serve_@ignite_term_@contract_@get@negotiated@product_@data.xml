@@ -1,0 +1,3 @@
+<variable-file delimiters="," filename="Serve_Ignite_term_Contract_GetNegotiatedProduct_Data.txt" name="Serve_Ignite_term_Contract_GetNegotiatedProduct_Data" offset="1" order="3" policy="5" range="1" uid="35c88c87-6c5f-4c66-9612-e7866d7b3750" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="APIDS" number="0"/>
+</variable-file>

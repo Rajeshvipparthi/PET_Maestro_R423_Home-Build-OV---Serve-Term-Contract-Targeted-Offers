@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Serve_Ignite_term_Contract_GetNegotiatedProduct_001"
+    pacingEnd="0" pacingMode="MODE_PACING_SIMPLE" pacingStart="0"
+    pacingValue="40" slaProfileEnabled="false"
+    uid="b972e3f2-045d-479a-b219-16fdb0cbd747" weightsEnabled="false">
+    <weighted-embedded-action uid="da20fa6e-8147-436c-9905-de612f6e3491"/>
+</basic-logical-action-container>

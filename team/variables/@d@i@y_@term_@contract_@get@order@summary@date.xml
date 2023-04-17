@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="DIY_Term_Contract_GetOrderSummaryDate" order="1" pattern="Y-MM-dd'T'HH:MM:ss.1ss-04:00" policy="1" range="2" uid="cce7086e-5911-4213-a621-f49488ed2433" whenOutOfValues="CYCLE_VALUES"/>

@@ -1,0 +1,6 @@
+<lg-host browserBasedSupport="false" citrixSupport="false"
+    hostname="LDCPETNEOGEN11:7100" loadWeight="1" sapSupport="false"
+    standalone="false" supportWANEmulation="true"
+    uid="56dcd915-d08a-49f8-9adc-fb22c7423cb4" version="7.4.0;build=20200528-24">
+    <!--****** LG NETWORK INTERFACES ******-->
+</lg-host>

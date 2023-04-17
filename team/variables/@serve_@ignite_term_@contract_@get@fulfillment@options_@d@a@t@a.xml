@@ -1,0 +1,6 @@
+<variable-file delimiters="," filename="Serve_Ignite_term_Contract_GetFulfillmentOptions_DATA.txt" name="Serve_Ignite_term_Contract_GetFulfillmentOptions_DATA" offset="1" order="3" policy="5" range="1" uid="ba2dfce9-4e8c-4858-9d55-f2d70cc229b7" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="AUID" number="3"/>
+<column name="CBPID" number="0"/>
+<column name="HHID" number="2"/>
+<column name="Samkey" number="1"/>
+</variable-file>

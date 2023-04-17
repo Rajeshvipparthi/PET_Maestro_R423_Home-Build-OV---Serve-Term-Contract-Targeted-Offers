@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="Serve_Ignite_term_Contract_SearchAssignedProducts_DATE" order="1" pattern="Y-MM-dd'T'HH:MM:ss.1ss-04:00" policy="1" range="2" uid="fa1d79d0-e061-44bc-ba32-7627ff58d8f4" whenOutOfValues="CYCLE_VALUES"/>

@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="Serve_Ignite_term_Contract_GetNegotiatedProduct_DATE" order="1" pattern="Y-MM-dd'T'HH:MM:ss.1ss-04:00" policy="1" range="2" uid="a74ec276-ff9e-4da7-8966-651c68ba7875" whenOutOfValues="CYCLE_VALUES"/>

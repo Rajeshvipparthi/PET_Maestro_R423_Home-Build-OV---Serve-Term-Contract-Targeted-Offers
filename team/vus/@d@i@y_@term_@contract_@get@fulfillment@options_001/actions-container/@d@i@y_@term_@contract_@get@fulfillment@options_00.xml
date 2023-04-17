@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="DIY_Term_Contract_GetFulfillmentOptions_00" pacingEnd="0"
+    pacingMode="MODE_PACING_SIMPLE" pacingStart="0" pacingValue="30"
+    slaProfileEnabled="false" uid="1d15d400-26c3-4d7d-abdf-99fc5bdcf920" weightsEnabled="false">
+    <weighted-embedded-action uid="b04c5d45-3e2c-4fd4-900b-2ba15a817b3c"/>
+</basic-logical-action-container>

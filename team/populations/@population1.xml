@@ -1,0 +1,182 @@
+<population uid="Population1">
+    <split cache="1" factor="9.0" virtualUserUid="DIY_Term_Contract_GetAvailableTimeSlots_001">
+        <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
+            connections="6" cookies="true" http2="true" name="browser.recorded"/>
+        <wan-emulation-profile
+            averageDownloadBandwidth="bandwidth.unlimited"
+            averageDownloadLatency="0ms" averageDownloadPacketLoss="0%"
+            averageUploadBandwidth="bandwidth.unlimited"
+            averageUploadLatency="0ms" averageUploadPacketLoss="0%"
+            downloadBandwidth="bandwidth.unlimited"
+            downloadLatency="0ms" downloadPacketLoss="0%"
+            isRadio="false" name="bandwidth.unlimited"
+            poorDownloadBandwidth="bandwidth.unlimited"
+            poorDownloadLatency="0ms" poorDownloadPacketLoss="0%"
+            poorUploadBandwidth="bandwidth.unlimited"
+            poorUploadLatency="0ms" poorUploadPacketLoss="0%"
+            signalStrength="GOOD" uploadBandwidth="bandwidth.unlimited"
+            uploadLatency="0ms" uploadPacketLoss="0%"/>
+    </split>
+    <split cache="1" factor="9.0" virtualUserUid="DIY_Term_Contract_GetBasicProductDefinition_001">
+        <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
+            connections="6" cookies="true" http2="true" name="browser.recorded"/>
+        <wan-emulation-profile
+            averageDownloadBandwidth="bandwidth.unlimited"
+            averageDownloadLatency="0ms" averageDownloadPacketLoss="0%"
+            averageUploadBandwidth="bandwidth.unlimited"
+            averageUploadLatency="0ms" averageUploadPacketLoss="0%"
+            downloadBandwidth="bandwidth.unlimited"
+            downloadLatency="0ms" downloadPacketLoss="0%"
+            isRadio="false" name="bandwidth.unlimited"
+            poorDownloadBandwidth="bandwidth.unlimited"
+            poorDownloadLatency="0ms" poorDownloadPacketLoss="0%"
+            poorUploadBandwidth="bandwidth.unlimited"
+            poorUploadLatency="0ms" poorUploadPacketLoss="0%"
+            signalStrength="GOOD" uploadBandwidth="bandwidth.unlimited"
+            uploadLatency="0ms" uploadPacketLoss="0%"/>
+    </split>
+    <split cache="1" factor="9.0" virtualUserUid="DIY_Term_Contract_GetFulfillmentOptions_001">
+        <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
+            connections="6" cookies="true" http2="true" name="browser.recorded"/>
+        <wan-emulation-profile
+            averageDownloadBandwidth="bandwidth.unlimited"
+            averageDownloadLatency="0ms" averageDownloadPacketLoss="0%"
+            averageUploadBandwidth="bandwidth.unlimited"
+            averageUploadLatency="0ms" averageUploadPacketLoss="0%"
+            downloadBandwidth="bandwidth.unlimited"
+            downloadLatency="0ms" downloadPacketLoss="0%"
+            isRadio="false" name="bandwidth.unlimited"
+            poorDownloadBandwidth="bandwidth.unlimited"
+            poorDownloadLatency="0ms" poorDownloadPacketLoss="0%"
+            poorUploadBandwidth="bandwidth.unlimited"
+            poorUploadLatency="0ms" poorUploadPacketLoss="0%"
+            signalStrength="GOOD" uploadBandwidth="bandwidth.unlimited"
+            uploadLatency="0ms" uploadPacketLoss="0%"/>
+    </split>
+    <split cache="1" factor="9.0" virtualUserUid="DIY_Term_Contract_GetOrderSummary_001">
+        <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
+            connections="6" cookies="true" http2="true" name="browser.recorded"/>
+        <wan-emulation-profile
+            averageDownloadBandwidth="bandwidth.unlimited"
+            averageDownloadLatency="0ms" averageDownloadPacketLoss="0%"
+            averageUploadBandwidth="bandwidth.unlimited"
+            averageUploadLatency="0ms" averageUploadPacketLoss="0%"
+            downloadBandwidth="bandwidth.unlimited"
+            downloadLatency="0ms" downloadPacketLoss="0%"
+            isRadio="false" name="bandwidth.unlimited"
+            poorDownloadBandwidth="bandwidth.unlimited"
+            poorDownloadLatency="0ms" poorDownloadPacketLoss="0%"
+            poorUploadBandwidth="bandwidth.unlimited"
+            poorUploadLatency="0ms" poorUploadPacketLoss="0%"
+            signalStrength="GOOD" uploadBandwidth="bandwidth.unlimited"
+            uploadLatency="0ms" uploadPacketLoss="0%"/>
+    </split>
+    <split cache="1" factor="19.0" virtualUserUid="DIY_Term_Contract_ValidateFulfillmentOptions_001">
+        <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
+            connections="6" cookies="true" http2="true" name="browser.recorded"/>
+        <wan-emulation-profile
+            averageDownloadBandwidth="bandwidth.unlimited"
+            averageDownloadLatency="0ms" averageDownloadPacketLoss="0%"
+            averageUploadBandwidth="bandwidth.unlimited"
+            averageUploadLatency="0ms" averageUploadPacketLoss="0%"
+            downloadBandwidth="bandwidth.unlimited"
+            downloadLatency="0ms" downloadPacketLoss="0%"
+            isRadio="false" name="bandwidth.unlimited"
+            poorDownloadBandwidth="bandwidth.unlimited"
+            poorDownloadLatency="0ms" poorDownloadPacketLoss="0%"
+            poorUploadBandwidth="bandwidth.unlimited"
+            poorUploadLatency="0ms" poorUploadPacketLoss="0%"
+            signalStrength="GOOD" uploadBandwidth="bandwidth.unlimited"
+            uploadLatency="0ms" uploadPacketLoss="0%"/>
+    </split>
+    <split cache="1" factor="9.0" virtualUserUid="DIY_Term_Contract_CheckProductCompatibility_001">
+        <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
+            connections="6" cookies="true" http2="true" name="browser.recorded"/>
+        <wan-emulation-profile
+            averageDownloadBandwidth="bandwidth.unlimited"
+            averageDownloadLatency="0ms" averageDownloadPacketLoss="0%"
+            averageUploadBandwidth="bandwidth.unlimited"
+            averageUploadLatency="0ms" averageUploadPacketLoss="0%"
+            downloadBandwidth="bandwidth.unlimited"
+            downloadLatency="0ms" downloadPacketLoss="0%"
+            isRadio="false" name="bandwidth.unlimited"
+            poorDownloadBandwidth="bandwidth.unlimited"
+            poorDownloadLatency="0ms" poorDownloadPacketLoss="0%"
+            poorUploadBandwidth="bandwidth.unlimited"
+            poorUploadLatency="0ms" poorUploadPacketLoss="0%"
+            signalStrength="GOOD" uploadBandwidth="bandwidth.unlimited"
+            uploadLatency="0ms" uploadPacketLoss="0%"/>
+    </split>
+    <split cache="1" factor="9.0" virtualUserUid="DIY_Term_Contract_SubmitOrder_001">
+        <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
+            connections="6" cookies="true" http2="true" name="browser.recorded"/>
+        <wan-emulation-profile
+            averageDownloadBandwidth="bandwidth.unlimited"
+            averageDownloadLatency="0ms" averageDownloadPacketLoss="0%"
+            averageUploadBandwidth="bandwidth.unlimited"
+            averageUploadLatency="0ms" averageUploadPacketLoss="0%"
+            downloadBandwidth="bandwidth.unlimited"
+            downloadLatency="0ms" downloadPacketLoss="0%"
+            isRadio="false" name="bandwidth.unlimited"
+            poorDownloadBandwidth="bandwidth.unlimited"
+            poorDownloadLatency="0ms" poorDownloadPacketLoss="0%"
+            poorUploadBandwidth="bandwidth.unlimited"
+            poorUploadLatency="0ms" poorUploadPacketLoss="0%"
+            signalStrength="GOOD" uploadBandwidth="bandwidth.unlimited"
+            uploadLatency="0ms" uploadPacketLoss="0%"/>
+    </split>
+    <split cache="1" factor="9.0" virtualUserUid="Serve_Ignite_term_Contract_GetFulfillmentOptions_001">
+        <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
+            connections="6" cookies="true" http2="true" name="browser.recorded"/>
+        <wan-emulation-profile
+            averageDownloadBandwidth="bandwidth.unlimited"
+            averageDownloadLatency="0ms" averageDownloadPacketLoss="0%"
+            averageUploadBandwidth="bandwidth.unlimited"
+            averageUploadLatency="0ms" averageUploadPacketLoss="0%"
+            downloadBandwidth="bandwidth.unlimited"
+            downloadLatency="0ms" downloadPacketLoss="0%"
+            isRadio="false" name="bandwidth.unlimited"
+            poorDownloadBandwidth="bandwidth.unlimited"
+            poorDownloadLatency="0ms" poorDownloadPacketLoss="0%"
+            poorUploadBandwidth="bandwidth.unlimited"
+            poorUploadLatency="0ms" poorUploadPacketLoss="0%"
+            signalStrength="GOOD" uploadBandwidth="bandwidth.unlimited"
+            uploadLatency="0ms" uploadPacketLoss="0%"/>
+    </split>
+    <split cache="1" factor="9.0" virtualUserUid="Serve_Ignite_term_Contract_GetNegotiatedProduct_001">
+        <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
+            connections="6" cookies="true" http2="true" name="browser.recorded"/>
+        <wan-emulation-profile
+            averageDownloadBandwidth="bandwidth.unlimited"
+            averageDownloadLatency="0ms" averageDownloadPacketLoss="0%"
+            averageUploadBandwidth="bandwidth.unlimited"
+            averageUploadLatency="0ms" averageUploadPacketLoss="0%"
+            downloadBandwidth="bandwidth.unlimited"
+            downloadLatency="0ms" downloadPacketLoss="0%"
+            isRadio="false" name="bandwidth.unlimited"
+            poorDownloadBandwidth="bandwidth.unlimited"
+            poorDownloadLatency="0ms" poorDownloadPacketLoss="0%"
+            poorUploadBandwidth="bandwidth.unlimited"
+            poorUploadLatency="0ms" poorUploadPacketLoss="0%"
+            signalStrength="GOOD" uploadBandwidth="bandwidth.unlimited"
+            uploadLatency="0ms" uploadPacketLoss="0%"/>
+    </split>
+    <split cache="1" factor="9.0" virtualUserUid="Serve_Ignite_term_Contract_SearchAssignedProducts_001">
+        <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
+            connections="6" cookies="true" http2="true" name="browser.recorded"/>
+        <wan-emulation-profile
+            averageDownloadBandwidth="bandwidth.unlimited"
+            averageDownloadLatency="0ms" averageDownloadPacketLoss="0%"
+            averageUploadBandwidth="bandwidth.unlimited"
+            averageUploadLatency="0ms" averageUploadPacketLoss="0%"
+            downloadBandwidth="bandwidth.unlimited"
+            downloadLatency="0ms" downloadPacketLoss="0%"
+            isRadio="false" name="bandwidth.unlimited"
+            poorDownloadBandwidth="bandwidth.unlimited"
+            poorDownloadLatency="0ms" poorDownloadPacketLoss="0%"
+            poorUploadBandwidth="bandwidth.unlimited"
+            poorUploadLatency="0ms" poorUploadPacketLoss="0%"
+            signalStrength="GOOD" uploadBandwidth="bandwidth.unlimited"
+            uploadLatency="0ms" uploadPacketLoss="0%"/>
+    </split>
+</population>

@@ -1,0 +1,4 @@
+<http-server hostname="sst99oms.rogers.com" port="80" ssl="false"
+    uid="sst99oms.rogers.com" urlrewriting-argument-name=""
+    urlrewriting-enabled="false" urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

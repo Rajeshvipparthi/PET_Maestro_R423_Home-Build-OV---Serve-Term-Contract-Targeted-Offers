@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=R423_Connect_Home_OV_DIY_ServeFlows_001Backup
+project.version=8.7
+project.original.version=8.7
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=9.1.1
+project.is-open-test-settings-after-upload=false
+project.id=1570d432-ee87-4696-92b1-c5768ef22905
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/Rajeshvipparthi/PET_Maestro_R423_Home-Build-OV---Serve-Term-Contract-Targeted-Offers.git

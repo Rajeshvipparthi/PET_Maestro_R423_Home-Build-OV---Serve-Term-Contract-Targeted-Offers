@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="DIY_Term_Contract_GetFulfillmentOptions_DATE" order="1" pattern="Y-MM-dd'T'HH:MM:ss.1ss-04:00" policy="1" range="2" uid="4447df9c-f864-4acc-a86d-d240f975e7e9" whenOutOfValues="CYCLE_VALUES"/>

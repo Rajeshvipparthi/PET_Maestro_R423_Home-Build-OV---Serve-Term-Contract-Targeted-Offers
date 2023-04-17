@@ -1,0 +1,7 @@
+<variable-file delimiters="," filename="DIY_Term_Contract_SubmitOrder_DATA.txt" name="DIY_Term_Contract_SubmitOrder_001" offset="3" order="3" policy="5" range="1" uid="d4fe7834-f9b6-4c2c-934a-0ddea904db88" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="AUID" number="4"/>
+<column name="CBPID" number="1"/>
+<column name="FAID" number="0"/>
+<column name="HHID" number="3"/>
+<column name="Samkey" number="2"/>
+</variable-file>

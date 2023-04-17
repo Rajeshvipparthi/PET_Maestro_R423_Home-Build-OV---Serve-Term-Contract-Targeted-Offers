@@ -1,0 +1,7 @@
+<variable-file delimiters="," filename="DIY_Term_Contract_GetFulfillmentOptions_DATA.txt" name="DIY_Term_Contract_GetFulfillmentOptions_001" offset="1" order="3" policy="5" range="1" uid="4d511af0-4270-4503-bb8e-2e9f5ec8a4f8" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="AUID" number="2"/>
+<column name="CBPID" number="0"/>
+<column name="FAID" number="1"/>
+<column name="HHID" number="3"/>
+<column name="SAMKey" number="4"/>
+</variable-file>

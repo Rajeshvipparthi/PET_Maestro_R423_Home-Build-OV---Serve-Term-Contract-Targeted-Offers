@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="DIY_Term_Contract_GetAvailableTimeSlots_01" pacingEnd="0"
+    pacingMode="MODE_PACING_SIMPLE" pacingStart="0" pacingValue="70"
+    slaProfileEnabled="false" uid="aa92608e-55ab-447d-a6ac-139c20515ff5" weightsEnabled="false">
+    <weighted-embedded-action uid="f3392e87-5145-42aa-8061-c45644517792"/>
+</basic-logical-action-container>

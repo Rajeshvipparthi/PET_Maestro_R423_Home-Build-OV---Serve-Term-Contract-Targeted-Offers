@@ -1,0 +1,6 @@
+<variable-file delimiters="," filename="DIY_Term_Contract_CheckProductCompatibility_001_DATA.txt" name="DIY_Term_Contract_CheckProductCompatibility_001" offset="1" order="3" policy="5" range="1" uid="154d9c3e-ab91-42d3-a1a2-bdfaecc209a5" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="AUID" number="1"/>
+<column name="CBPID" number="0"/>
+<column name="HHID" number="2"/>
+<column name="SAMKey" number="3"/>
+</variable-file>

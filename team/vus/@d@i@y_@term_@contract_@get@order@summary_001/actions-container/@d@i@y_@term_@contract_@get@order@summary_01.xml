@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="DIY_Term_Contract_GetOrderSummary_01" pacingEnd="0"
+    pacingMode="MODE_PACING_SIMPLE" pacingStart="0" pacingValue="35"
+    slaProfileEnabled="false" uid="0f9d3d0d-76f8-4809-a8dc-78e64b54deb2" weightsEnabled="false">
+    <weighted-embedded-action uid="97a16219-d337-404a-a9cb-4b151fc91ea9"/>
+</basic-logical-action-container>

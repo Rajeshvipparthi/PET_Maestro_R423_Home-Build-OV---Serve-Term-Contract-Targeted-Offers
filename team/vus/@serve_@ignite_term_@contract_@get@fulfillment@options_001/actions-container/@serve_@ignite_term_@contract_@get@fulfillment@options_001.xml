@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Serve_Ignite_term_Contract_GetFulfillmentOptions_001"
+    pacingEnd="0" pacingMode="MODE_PACING_SIMPLE" pacingStart="0"
+    pacingValue="35" slaProfileEnabled="false"
+    uid="feb485a1-4420-4aff-ae07-7fba63223060" weightsEnabled="false">
+    <weighted-embedded-action uid="f93369ea-7acd-4e56-b8b6-979597a92572"/>
+</basic-logical-action-container>
